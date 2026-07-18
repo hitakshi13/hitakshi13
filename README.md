@@ -34,7 +34,7 @@ const hitakshi = {
 ### PrepWise
 > AI mock interview platform — live and deployed
 
-![PrepWise Pin](https://github-readme-stats.vercel.app/api/pin/?username=hitakshi13&repo=ai_mock_interviews&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)
+
 
 | Layer | Technology |
 |---|---|
@@ -46,7 +46,7 @@ const hitakshi = {
 ### Converso
 > Voice SaaS platform — live and deployed
 
-![Converso Pin](https://github-readme-stats.vercel.app/api/pin/?username=hitakshi13&repo=saas-app&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)
+
 
 | Layer | Technology |
 |---|---|
@@ -58,7 +58,7 @@ const hitakshi = {
 ### WanderLust
 > Airbnb clone
 
-![WanderLust Pin](https://github-readme-stats.vercel.app/api/pin/?username=hitakshi13&repo=wanderlust&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)
+
 
 | Layer | Technology |
 |---|---|
@@ -71,7 +71,7 @@ const hitakshi = {
 ### Zerodha MERN Stock Trading Clone
 > Featured on resume
 
-![Stock App Pin](https://github-readme-stats.vercel.app/api/pin/?username=hitakshi13&repo=stock-app&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)
+
 
 | Layer | Technology |
 |---|---|
@@ -102,20 +102,7 @@ const hitakshi = {
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-7dd3fc?style=for-the-badge&logoColor=white&labelColor=black)
 ![Claude API](https://img.shields.io/badge/Claude_API-7dd3fc?style=for-the-badge&logoColor=white&labelColor=black)
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitakshi13&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitakshi13&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hitakshi13&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&background=0d1117)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=hitakshi13&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hitakshi13&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
-
-</div>
 
 ## 🔗 Connect
 
