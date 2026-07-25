@@ -31,6 +31,24 @@ const hitakshi = {
 
 ## 🚀 Featured Projects
 
+### PlaceTrack
+> AI-powered Placement Management System for campus recruitment — live and deployed
+
+| Layer | Technology |
+|---|---|
+| Core Stack | Next.js 14, TypeScript, PostgreSQL, Prisma, NextAuth v5 |
+| AI | Groq (Llama 3.3 70B) |
+
+**Highlights**
+- Role-based access for Students, Coordinators, and Admins
+- Real-time placement pipeline tracking (Applied → OA → Interview → Offer)
+- AI Interview Coach with personalised preparation roadmaps
+- Eligibility filtering and analytics dashboard with Recharts
+
+**🌐 Live:** https://place-track-pf7n.vercel.app/login
+
+**Code:** https://github.com/hitakshi13/placeTrack
+
 ### PrepWise
 > AI mock interview platform — live and deployed
 
